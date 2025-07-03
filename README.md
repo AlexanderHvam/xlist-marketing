@@ -1,2 +1,2 @@
 # xlist-marketing
-Marketing page for the Xlist app.
+Marketing page for the Uniqo app.
